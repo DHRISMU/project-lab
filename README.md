@@ -40,7 +40,7 @@ Rafia's Background:
 
 Discussion participants: 
 * [Sarah Sage, PMP Project Manager, OIT](https://www.smu.edu/OIT/Governance)
-* [Cindy Boeke Digital Collections Librarian, NCDS, SMU Libraries](https://www.smu.edu/libraries/digitalcollections/about)
+* [Digital Collections Librarian, NCDS, SMU Libraries](https://www.smu.edu/libraries/digitalcollections/about)
 
 
 Session Leader: Rafia Mirza
